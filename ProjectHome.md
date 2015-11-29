@@ -1,0 +1,1 @@
+Java Library for reading/writing flight data files using the standard data format according to FAI/IGC.
